@@ -1,0 +1,122 @@
+{
+  "sessions": [
+    {
+    "title": "Wednesday",
+    "data": [
+    {
+      "id": 84473,
+      "title": "Secure Programming for the Enterprise",
+      "description": "Est sunt nostrud officia fugiat sunt reprehenderit cupidatat. Et incididunt aliquip aliqua et id sit enim velit aliquip velit incididunt nulla. Aliquip adipisicing eu sint et incididunt excepteur labore in labore culpa ea. Incididunt aute labore aute duis adipisicing officia consequat. Incididunt sit aute nostrud officia exercitation aute fugiat quis commodo officia sunt culpa labore laboris reprehenderit. Commodo eu non reprehenderit. Sint ipsum ex dolore pariatur aliqua laboris tempor aliqua excepteur adipisicing.\nExcepteur ex et veniam adipisicing eu et. Deserunt non laborum proident. Exercitation sint do irure ut eiusmod incididunt non. Nostrud non incididunt adipisicing ipsum qui mollit cillum dolore voluptate. Occaecat officia incididunt in duis.\nEt est magna aliquip pariatur consectetur voluptate voluptate sunt ut minim do reprehenderit do. Ex incididunt sunt tempor do eiusmod dolor culpa ipsum eu aliqua cillum ad ut incididunt. Pariatur reprehenderit duis cupidatat consequat est veniam in qui consequat esse irure ex occaecat. Amet aliquip aliquip non enim ex do ad est nisi qui ut adipisicing aliqua in duis. Adipisicing Lorem ut do deserunt ipsum nulla labore Lorem ullamco.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "2bda8276-b7b6-4653-a7c5-1bcc59d11a49",
+          "name": "Jean Ryan"
+        }
+      ],
+      "room": "Europa",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": ".NET",
+      "level": "Intermediate",
+      "favorite": true
+    }]},
+    {
+      "title": "Thursday",
+      "data": [
+    {
+      "id": 82048,
+      "title": "10 Things You'll Hate About React",
+      "description": "Laboris ullamco occaecat aliqua aliquip cupidatat dolor. Nulla Lorem in cillum. Sint non commodo sit eu reprehenderit. Magna mollit aute excepteur anim.\nDolore incididunt tempor dolore elit. Laboris id non et reprehenderit qui elit. Ipsum culpa et laborum pariatur laborum velit sunt officia cupidatat culpa. Excepteur in eu eu aliqua eu pariatur magna duis aute magna commodo. Eu qui quis magna reprehenderit Lorem veniam. Dolor proident deserunt mollit aliqua quis voluptate enim adipisicing amet occaecat ullamco. Id do velit labore ut proident commodo.\nNulla aliqua sit cupidatat ipsum esse id esse ex Lorem ut Lorem sunt. Irure et magna labore duis magna officia amet magna commodo sint. Aliqua eiusmod exercitation eu voluptate quis duis ullamco sit nisi commodo aliqua deserunt. Non ullamco ullamco nisi quis id irure do do voluptate ipsum sint laboris.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "a25e6534-f680-4487-83da-9f58329af3a9",
+          "name": "Rylan Riley"
+        }
+      ],
+      "room": "Sol",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "JavaScript",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85213,
+      "title": "Agile is a Bad Word",
+      "description": "Ut ea officia velit irure quis. Do esse ex eu nisi consectetur culpa non aliqua ut reprehenderit et laboris anim Lorem excepteur. Proident nisi quis excepteur in esse enim elit tempor sit commodo sunt eu et. Eiusmod id ad sunt sint.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "96051b9e-ae0d-47fe-95fc-83419f497ba2",
+          "name": "Suzanne Brown"
+        }
+      ],
+      "room": "Mars",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Process",
+      "level": "Intermediate"
+    },
+    {
+      "id": 84376,
+      "title": "Kotlin 101",
+      "description": "Occaecat aliqua quis aute consequat irure consectetur cillum. Occaecat laborum fugiat culpa id cillum sunt commodo minim veniam consectetur aliquip do sunt. Fugiat nulla irure ea exercitation sit occaecat in sit cillum laborum reprehenderit reprehenderit eiusmod deserunt. Cupidatat duis nisi pariatur ea ullamco.\nProident est dolor aute consectetur nisi cillum Lorem mollit est eu est adipisicing ullamco. Duis veniam aliquip sunt culpa velit ex reprehenderit incididunt minim. Tempor proident do nisi proident consectetur exercitation nostrud occaecat nulla occaecat sunt. Nulla eu amet in. Velit aliqua labore amet. Enim enim nulla exercitation excepteur eu labore eu aliqua fugiat anim.\nExercitation cupidatat aliqua officia do. Ea et enim cupidatat consectetur ut eiusmod consequat deserunt commodo ullamco nulla enim culpa nulla. Ipsum minim in cillum sint ex Lorem fugiat occaecat. Adipisicing consectetur deserunt do.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "172a6669-38c5-46ec-b262-3290e8aa41e3",
+          "name": "Joan Jordan"
+        }
+      ],
+      "room": "Europa",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Java",
+      "level": "Introductory and overview"
+    }]},    
+    {
+      "title": "Friday",
+      "data": [
+    {
+      "id": 78170,
+      "title": "A Modern Architectural Review of Adventure Games",
+      "description": "Ad eiusmod reprehenderit ea aute est pariatur sunt cillum. Sit fugiat enim ullamco deserunt officia pariatur eiusmod sit duis et cillum velit. Irure ullamco et sunt dolor tempor deserunt ut dolor non qui est irure exercitation qui reprehenderit. Incididunt nostrud velit irure labore quis Lorem consequat dolore eu exercitation aute non ad exercitation enim. Nulla amet reprehenderit incididunt occaecat. Pariatur aute magna sint incididunt dolor et est qui et id ea. Ad officia quis anim pariatur.\nVoluptate non elit Lorem voluptate cillum irure adipisicing ea in velit dolor. Reprehenderit irure aliquip exercitation laboris proident. Irure cillum laborum anim aliqua minim ullamco dolore ut ut adipisicing ad nulla culpa. Cupidatat mollit adipisicing mollit non minim nostrud fugiat excepteur duis cupidatat dolor labore qui id. Anim ut magna dolore ex incididunt tempor anim est deserunt sint ex adipisicing exercitation voluptate ad. Nulla sint enim dolor consectetur culpa voluptate pariatur. Excepteur sint tempor nulla voluptate est pariatur sit amet culpa.",
+      "startsAt": "8:30",
+      "endsAt": "9:30",
+      "speakers": [
+        {
+          "id": "37313769-11ae-4245-93b3-e6e60d5d187c",
+          "name": "Roberto Moore"
+        }
+      ],
+      "room": "Jupiter",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Other Languages",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 79528,
+      "title": "Affective Computing",
+      "description": "Id aliquip sunt nulla anim esse nisi adipisicing commodo excepteur Lorem commodo labore veniam laboris irure. Et exercitation commodo laborum officia reprehenderit ad cupidatat consequat exercitation ipsum. Dolor qui mollit officia dolore sunt eiusmod ullamco consequat aute ut consequat nostrud irure cupidatat reprehenderit. Pariatur occaecat laborum qui mollit id amet sint elit ad sunt. Officia adipisicing pariatur nulla officia esse. Excepteur irure aliqua officia eiusmod id exercitation voluptate in sint aute tempor eu. Dolor ex sunt qui in esse ut. Laboris tempor dolor culpa reprehenderit dolor.",
+      "startsAt": "8:30",
+      "endsAt": "9:30",
+      "speakers": [
+        {
+          "id": "cc4156db-2db1-47de-9578-6c9134ee6eee",
+          "name": "Jordan Tucker"
+        }
+      ],
+      "room": "Uranus",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Data Science",
+      "level": "Introductory and overview"
+    }]}     
+  ]
+}
