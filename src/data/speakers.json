@@ -1,0 +1,44 @@
+{
+  "speakers": [
+    {
+      "id": "381b010e-f51d-4fca-a249-271f72a6a5b9",
+      "bio": "Anim anim cupidatat cupidatat consequat nisi mollit velit officia nulla et eiusmod enim. Irure incididunt non irure in est veniam aliquip fugiat nulla magna et commodo. Culpa nisi magna ullamco ipsum in. Enim nostrud irure do ea dolore deserunt eiusmod pariatur mollit nisi ex minim eiusmod nisi mollit.",
+      "sessions": [
+        {
+          "id": 129718,
+          "name": "Batching Vs Streaming"
+        }
+      ],
+      "name": "Macey Duncan",
+      "featured": true
+    },
+    {
+      "id": "c5e306ae-3f40-4ff0-92a2-503e2f1dc6a1",
+      "bio": "Ex amet elit anim qui consectetur fugiat consequat dolor occaecat. Pariatur eu duis dolore do commodo nisi consequat enim est pariatur eiusmod adipisicing esse labore ut. Laborum et ex aliqua esse Lorem aliqua. Mollit nulla nostrud enim ut proident commodo deserunt occaecat ex elit ex est.\nEsse enim nulla dolore sint incididunt enim eu eu aute aliqua laboris deserunt eiusmod. Reprehenderit et proident nisi laborum ex minim velit. Aliqua laboris et nulla laborum amet sint irure ad tempor. Nulla do officia labore. Ut amet aute ex proident. Enim sint aliqua occaecat voluptate adipisicing dolore proident.",
+      "sessions": [
+        {
+          "id": 85318,
+          "name": "Azure you want to use AWS IoT?"
+        }
+      ],
+      "name": "Jerome Parker",
+      "featured": true
+    },
+    {
+      "id": "aa24b5ca-5b96-4657-909e-e5be82ebf891",
+      "bio": "Amet veniam nisi tempor exercitation exercitation. Velit id ullamco qui ut ex sint mollit sint. Sit minim non commodo occaecat nisi aliquip. Commodo magna laborum ex cillum eiusmod cillum occaecat cupidatat anim non mollit laboris.\nSunt irure pariatur minim. Sunt minim esse quis nulla laboris est in laboris minim tempor culpa in irure. Anim incididunt cillum esse veniam tempor. Proident velit anim aliqua et labore id. Tempor anim eu ex aliqua adipisicing et. Duis elit ad amet quis ex laborum cupidatat amet sunt et ipsum velit anim.",
+      "sessions": [
+        {
+          "id": 83482,
+          "name": "React Native: The Big Picture"
+        },
+        {
+          "id": 83492,
+          "name": "GraphQL - The Big Picture"
+        }
+      ],
+      "name": "West Larson"
+    }
+  ]
+}
+    
